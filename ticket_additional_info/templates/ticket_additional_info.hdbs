@@ -1,0 +1,21 @@
+<div>
+  <table>
+    <tr>
+      <th>{{t "requester_id"}}</th>
+      <td>{{requester_id}}</td>
+    </tr>
+    <tr>
+      <th>{{t "requester_name"}}</th>
+      <td>{{requester_name}}</td>
+    </tr>
+    <tr>
+      <th>{{t "requester_email"}}</th>
+      <td>{{requester_email}}</td>
+    </tr>
+    <tr>
+      <th>{{t "requester_url"}}</th>
+      <td><a href='{{requester_url}}'>{{requester_url}}</a></td>
+    </tr>
+  </table>
+</div>
+
